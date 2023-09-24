@@ -59,5 +59,6 @@
       "!{projectRoot}/eslint.config.js"
     ],
     "sharedGlobals": []
-  }
+  },
+  "defaultProject": "nx-nest-esm"
 }

@@ -2,7 +2,9 @@
   "name": "@nx-nest-esm/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "nx s"
+  },
   "private": true,
   "dependencies": {
     "@nestjs/common": "^10.0.2",
