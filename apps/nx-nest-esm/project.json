@@ -16,7 +16,7 @@
         "tsConfig": "apps/nx-nest-esm/tsconfig.app.json",
         "assets": ["apps/nx-nest-esm/src/assets"],
         "isolatedConfig": true,
-        "webpackConfig": "apps/nx-nest-esm/webpack.config.js"
+        "webpackConfig": "apps/nx-nest-esm/webpack.config.ts"
       },
       "configurations": {
         "development": {},
